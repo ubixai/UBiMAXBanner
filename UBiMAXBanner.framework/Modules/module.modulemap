@@ -1,0 +1,6 @@
+framework module UBiMAXBanner {
+  umbrella header "UBiMAXBanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
